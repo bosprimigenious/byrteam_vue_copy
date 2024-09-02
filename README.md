@@ -6,7 +6,7 @@ BYR Team 首页源码：https://github.com/BYRIO/byrteam
 
 ## 如何运行？
 
-首先你需要安装 `nodejs`
+首先你需要安装 `nodejs` 推荐版本 node 20
 
 然后
 
