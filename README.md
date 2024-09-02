@@ -60,7 +60,7 @@ npm run dev
 
 ### `我们的产品`
 
-这一章节，可以使用静态的圆框替代，可以使用数组来模拟选择。
+这一章节，不需要还原动画，被选中的图标需要有一定的变化，比如添加背景颜色，变大等。可以使用数组来模拟选择。
 
 [@click](https://cn.vuejs.org/guide/essentials/event-handling) 事件绑定数组下标
 
@@ -72,7 +72,7 @@ npm run dev
 
 关键词：轮播图
 
-如果难度过大可忽略
+如果难度过大可忽略不做，只需要实现一个学长学姐说的卡片
 
 ### `招新公告与招新流程`
 
@@ -98,6 +98,6 @@ npm run dev
 
 ### 其它
 
-除此之外你需要学会基本的 git 操作，如 git clone, git commit, git push
+除此之外你需要学会基本的 git 操作，如 git clone，git add ., git commit, git push
 
 需要一点基本的 js 编程知识
