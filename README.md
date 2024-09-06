@@ -11,7 +11,7 @@ BYR Team 首页源码：https://github.com/BYRIO/byrteam
 然后
 
 ```bash
-git clone https://git.byr.ink/byrteam-assignment/frontend-2024/byrteam-vue.git
+git clone https://git.byr.moe/ChocoLZS/byrteam-vue.git
 ```
 
 ```bash
