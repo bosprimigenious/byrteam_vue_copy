@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  html, body, #app {
+    @apply bg-gray-200 text-gray-900 min-h-screen;
+  }
+}
+
+/* 全局提供给 Products 的路径描边动画 */
+@keyframes draw {
+  from { stroke-dashoffset: 1; }
+  to { stroke-dashoffset: 0; }
+}
